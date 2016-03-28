@@ -1,0 +1,7 @@
+#+TITLE: ttkfj
+* Orgmode
+* 测试 update 功能
+just for test
+测试更新post功能
+* 上次测试不成功，重新测试
+fhdjk
